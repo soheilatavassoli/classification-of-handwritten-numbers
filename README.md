@@ -1,1 +1,0 @@
-# classification-of-handwritten-numbers
