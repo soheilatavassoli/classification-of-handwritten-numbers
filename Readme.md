@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 
 ## Project Team Members
 - Fatemeh Saeidi  
-- Sohila Tavasoli  
+- Soheila Tavassoli  
 - Elisa Chateri
 
 ## Project Structure
